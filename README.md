@@ -13,4 +13,4 @@ In my free time, I enjoy exploring new datasets and find insightswith tools and 
 * [Portfolio Python Projects](https://github.com/fincoder468/Data-Analyst-Portfolio/tree/main/Python%20Projects)
    - [Stack overflow developer survey](https://github.com/fincoder468/Data-Analyst-Portfolio/blob/main/Python%20Projects/Stack_overflow_developer_survey.ipynb)
    - [Swiggy restaurant demography analysis](https://github.com/fincoder468/Data-Analyst-Portfolio/blob/main/Python%20Projects/Swiggy%20Restaurant%20demography%20analysis-checkpoint.ipynb)
-   - [MANG analysis]
+   - [MANG analysis](https://github.com/fincoder468/Data-Analyst-Portfolio/blob/main/Python%20Projects/mang%20analysis.ipynb)
