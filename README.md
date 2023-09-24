@@ -35,3 +35,6 @@ Marwar Montesarry School Makrana (Raj.), 12th RBSE board, Percentage - 89%, 2018
 
 Indian Institute of Technology Roorkee, B.Tech, Percentage - 81%, July 2019 -July 2023
 
+## Contact
+* Email: Poonamp@ce.iitr.ac.in
+* LinkedIn: https://www.linkedin.com/in/poonam-prajapat-0995141a0/
