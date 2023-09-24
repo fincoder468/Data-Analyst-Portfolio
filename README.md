@@ -15,4 +15,7 @@ In my free time, I enjoy exploring new datasets and find insightswith tools and 
       - [Stack overflow developer survey](https://github.com/fincoder468/Data-Analyst-Portfolio/blob/main/Python%20Projects/Stack_overflow_developer_survey.ipynb)
       - [Swiggy restaurant demography analysis](https://github.com/fincoder468/Data-Analyst-Portfolio/blob/main/Python%20Projects/Swiggy%20Restaurant%20demography%20analysis-checkpoint.ipynb)
       - [MANG analysis](https://github.com/fincoder468/Data-Analyst-Portfolio/blob/main/Python%20Projects/mang%20analysis.ipynb)
-* [Basic Python Games]
+* [Basic Python Games](https://github.com/fincoder468/Data-Analyst-Portfolio/tree/main/Python%20Games)
+    - [My assistant](https://github.com/fincoder468/Data-Analyst-Portfolio/blob/main/Python%20Games/Project_1-My_assistant_kanna.py)
+    - [Flappy Bird](https://github.com/fincoder468/Data-Analyst-Portfolio/blob/main/Python%20Games/Project-2-Flappy_bird_game.py)
+    - [Run Dino Run](https://github.com/fincoder468/Data-Analyst-Portfolio/blob/main/Python%20Games/Project_3-Run_Dino_Run.py)
