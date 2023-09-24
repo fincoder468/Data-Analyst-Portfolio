@@ -24,3 +24,12 @@ In my free time, I enjoy exploring new datasets and find insightswith tools and 
     - [Flappy Bird](https://github.com/fincoder468/Data-Analyst-Portfolio/blob/main/Python%20Games/Project-2-Flappy_bird_game.py)
     - [Run Dino Run](https://github.com/fincoder468/Data-Analyst-Portfolio/blob/main/Python%20Games/Project_3-Run_Dino_Run.py)
 #
+* [Education]()
+* [Contact]()
+#
+
+## Education
+Diamond Secondary School Makrana (Raj.), 1oth RBSE board, Percentage - 87%, 2016
+Marwar Montesarry School Makrana (Raj.), 12th RBSE board, Percentage - 89%, 2018
+Indian Institute of Technology Roorkee, B.Tech, Percentage - 81%, July 2019 -July 2023
+
