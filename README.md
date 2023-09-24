@@ -10,7 +10,7 @@ During my studies, I honed my ability to work with complex data in some projects
 In my free time, I enjoy exploring new datasets and find insightswith tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 ## Table of Contents
 * [About](https://github.com/fincoder468/Data-Analyst-Portfolio/blob/main/README.md#about)
-  
+#
 * [Portfolio Projects](https://github.com/fincoder468/Data-Analyst-Portfolio/tree/main/Python%20Projects)
     + Python
       - [Stack overflow developer survey](https://github.com/fincoder468/Data-Analyst-Portfolio/blob/main/Python%20Projects/Stack_overflow_developer_survey.ipynb)
@@ -18,8 +18,9 @@ In my free time, I enjoy exploring new datasets and find insightswith tools and 
       - [MANG analysis](https://github.com/fincoder468/Data-Analyst-Portfolio/blob/main/Python%20Projects/mang%20analysis.ipynb)
     + SQL
       - [SQL](https://github.com/fincoder468/Data-Analyst-Portfolio/tree/main/SQL)
-        
+#        
 * [Basic Python Games](https://github.com/fincoder468/Data-Analyst-Portfolio/tree/main/Python%20Games)
     - [My assistant](https://github.com/fincoder468/Data-Analyst-Portfolio/blob/main/Python%20Games/Project_1-My_assistant_kanna.py)
     - [Flappy Bird](https://github.com/fincoder468/Data-Analyst-Portfolio/blob/main/Python%20Games/Project-2-Flappy_bird_game.py)
     - [Run Dino Run](https://github.com/fincoder468/Data-Analyst-Portfolio/blob/main/Python%20Games/Project_3-Run_Dino_Run.py)
+#
