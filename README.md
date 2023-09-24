@@ -1,5 +1,5 @@
 # Data-Analyst-Portfolio
-*Welcome to my Data Analyst Portfolio!*
+_Welcome to my Data Analyst Portfolio!_
 
 Hi, I'm Poonam! I have an engineering background and hold a Bachelor of Technology in Civil from Indian Institute of Technology, Roorkee(IIT Roorkee).
 I am a data enthusiast with a strong interestb and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analytics as an entry-level data analyst.
