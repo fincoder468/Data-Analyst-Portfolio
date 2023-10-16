@@ -1,4 +1,4 @@
-### Dashboard for analyzing global YouTube
+*Dashboard for analyzing global YouTube*
 1. Monitor Channel Performance: Track key performance indicators (KPIs) for YouTube channels, such as views, subscribers, likes, comments, and shares, to understand how different channels are performing.
 2. Content Analysis: Assess the category of content that listed the most in top yutuber, such as Entertainment, comedy, education, etc. to inform content strategy.
 3. Competitive Analysis: Compare the performance of different YouTube channels with number of uploads, subscribers, created year.
