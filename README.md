@@ -18,6 +18,7 @@ In my free time, I enjoy exploring new datasets and find insights with tools and
       - [MANG analysis](https://github.com/fincoder468/Data-Analyst-Portfolio/blob/main/Python%20Projects/mang%20analysis.ipynb)
     + SQL
       - [SQL](https://github.com/fincoder468/Data-Analyst-Portfolio/tree/main/SQL)
+      - [Music Store Analysis](SQL/Music_store_SQL_analysis_by_pp.sql)
 #        
 * [Basic Python Games](https://github.com/fincoder468/Data-Analyst-Portfolio/tree/main/Python%20Games)
     - [My assistant](https://github.com/fincoder468/Data-Analyst-Portfolio/blob/main/Python%20Games/Project_1-My_assistant_kanna.py)
