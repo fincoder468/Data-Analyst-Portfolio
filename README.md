@@ -20,9 +20,9 @@ In my free time, I enjoy exploring new datasets and find insights with tools and
       - [SQL](https://github.com/fincoder468/Data-Analyst-Portfolio/tree/main/SQL)
       - [Music Store Analysis](SQL/Music_store_SQL_analysis_by_pp.sql)
 #
-* [Dashboard in Power BI](Power BI Dashboard)
-    + [Global Youtube analysis](Power BI Dashboard/ Global Youtube analysis)
-    + [Super Market Sales Analysis](Power BI Dashboard/Supermarket sales analysis)
+* [Dashboard in Power BI](https://github.com/fincoder468/Data-Analyst-Portfolio/tree/main/Power%20BI%20Dashboar)
+    + [Global Youtube analysis](https://github.com/fincoder468/Data-Analyst-Portfolio/tree/main/Power%20BI%20Dashboard/%20Global%20Youtube%20analysis)
+    + [Super Market Sales Analysis](https://github.com/fincoder468/Data-Analyst-Portfolio/tree/main/Power%20BI%20Dashboard/Supermarket%20sales%20analysis)
 #
 * [Basic Python Games](https://github.com/fincoder468/Data-Analyst-Portfolio/tree/main/Python%20Games)
     - [My assistant](https://github.com/fincoder468/Data-Analyst-Portfolio/blob/main/Python%20Games/Project_1-My_assistant_kanna.py)
