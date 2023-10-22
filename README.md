@@ -34,7 +34,7 @@ In my free time, I enjoy exploring new datasets and find insights with tools and
 #
 
 ## Education
-Diamond Secondary School Makrana (Raj.), 1oth RBSE board, Percentage - 87%, 2016
+Diamond Secondary School Makrana (Raj.), 10th RBSE board, Percentage - 87%, 2016
 
 Marwar Montesarry School Makrana (Raj.), 12th RBSE board, Percentage - 89%, 2018
 
